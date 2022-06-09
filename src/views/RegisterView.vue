@@ -1,10 +1,12 @@
 <template>
-$END$
+  <div class="register">
+    Register
+  </div>
 </template>
 
 <script>
 export default {
-name: "RegisterView"
+
 }
 </script>
 
